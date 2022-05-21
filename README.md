@@ -1,8 +1,6 @@
-<h1 align="center">rxfetch-termux</h1>
+mayTermux made it for phones (termux) so I made it to work on desktop!
+<br>
+### Make sure to edit the line <u>214</u> if you have a different kernel/kernel version than 5.17.9 ZEN
 
-<p align="center">rxfetch-termux is a Termux Fetch Fork of <a href="https://github.com/Mangeshrex/rxfetch">Mangeshrex/rxfetch</a></p>
 
-<img src="https://i.ibb.co/w05L1Fs/Screenshot-20220319-193013-Termux.png" alt="rxfetch-termux">
-
-## Showcase
-**Upload your custom script `rxfetch-termux` [here](https://github.com/mayTermux/rxfetch-termux/issues/1)**
+![image](https://user-images.githubusercontent.com/76164598/169660180-09818a5b-ff09-4b21-ba5d-fdd0c336c3dd.png)
